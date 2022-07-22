@@ -1,0 +1,71 @@
+header{
+    font-family: "PT Sans", sans-serif;
+    display: inline-block;
+    margin-left: 500px;
+    color: black
+}
+li {
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+}
+h2{
+  
+        text-align: center;
+        margin-top: 60px;
+        color: black;
+   
+}
+.conteiner{
+    
+    display: inline-block;
+    margin-left: 180px;
+    margin-top: 100px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid black;
+}
+div img{
+    width: 180px;
+    height: 250px;
+    margin: 10px 10px;
+}
+.name1{
+    font-size: 17px;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: "poppins";
+}
+.description {
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: "poppins";
+}
+.button{
+    width: 90px;
+    height: 20px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 17px;
+    border-radius: 3px;
+    padding-left: 5px;
+}
+.h2contactus .h2aboutthecompany{
+    text-align: center;
+        margin-top: 60px;
+        color: rgb(211, 14, 14);
+}
+p{
+    margin-left: 200px;
+    
+}
+.mapimg{
+top: 642px;
+left: 266px;
+    width: 908px;
+    height: 423px;
+    margin: 10px 20px;
+}
